@@ -16,4 +16,4 @@ as the user wishes during the exercise. To use a beep signal click checkbox **Ty
 
 IMPORTANT NOTE!
 ---------------
-All lessons are stored in the file named **Lessons.xml** that **MUST** be stored in the same folder as **TypinApp.exe** file exists.
+All lessons are stored in the files named **Lessons.xml** and **Core.dll** that **MUST** be stored in the same folder as **TypinApp.exe** file exists.
