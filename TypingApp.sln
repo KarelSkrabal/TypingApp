@@ -1,9 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingAppCLI", "TypingAppCLI\TypingAppCLI.csproj", "{5CF28451-0DDE-450C-9EE6-1A2EEBD661AF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingAppWF", "TypingAppWF\TypingAppWF.csproj", "{9577B9E5-CE74-420B-8FE3-2EA18466B28D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{E947FE31-986F-4A29-9215-042CC6923390}"
@@ -16,14 +14,6 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5CF28451-0DDE-450C-9EE6-1A2EEBD661AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5CF28451-0DDE-450C-9EE6-1A2EEBD661AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5CF28451-0DDE-450C-9EE6-1A2EEBD661AF}.Debug|x64.ActiveCfg = Debug|x64
-		{5CF28451-0DDE-450C-9EE6-1A2EEBD661AF}.Debug|x64.Build.0 = Debug|x64
-		{5CF28451-0DDE-450C-9EE6-1A2EEBD661AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5CF28451-0DDE-450C-9EE6-1A2EEBD661AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5CF28451-0DDE-450C-9EE6-1A2EEBD661AF}.Release|x64.ActiveCfg = Release|x64
-		{5CF28451-0DDE-450C-9EE6-1A2EEBD661AF}.Release|x64.Build.0 = Release|x64
 		{9577B9E5-CE74-420B-8FE3-2EA18466B28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9577B9E5-CE74-420B-8FE3-2EA18466B28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9577B9E5-CE74-420B-8FE3-2EA18466B28D}.Debug|x64.ActiveCfg = Debug|Any CPU
