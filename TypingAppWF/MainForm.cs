@@ -134,8 +134,8 @@ namespace TypingAppWF
                 ToolStripMenuItem subItem = new ToolStripMenuItem(item)
                 {
                     Tag = item,
-                    ShortcutKeys = Keys.Control | (Keys)new KeysConverter().ConvertFromString(Regex.Match(item, @"\d+").Value),
-                    ShowShortcutKeys = true
+                    //ShortcutKeys = Keys.Control | (Keys)new KeysConverter().ConvertFromString(Regex.Match(item, @"\d+").Value),
+                    //ShowShortcutKeys = true
                 };
                 subItem.Click += LessonToolStripMenuItem_Click;
                 openLessonToolStripMenuItem.DropDownItems.Add(subItem);

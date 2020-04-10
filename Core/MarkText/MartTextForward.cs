@@ -8,8 +8,6 @@ namespace TypingAppWF
     {
         public void MarkText(RichTextBox richTextBox, ref int position)
         {
-            int test = richTextBox.Text.Length;
-            int test1 = position;
             //check if next position in the text is less then very last letter of the text
             if (richTextBox.Text.Length > position + 1)
             {
